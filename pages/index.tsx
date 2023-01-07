@@ -209,7 +209,7 @@ const Home: NextPage = () => {
     return (
       <div className={styles.container}>
         <main className={styles.main}>
-          <h1 className={styles.title}>Welcome to Tokyo Sauna Collective !!</h1>
+          <h1 className={styles.title}>Welcome to keit DAO Collective !!</h1>
           <div className={styles.connect}>
             <ConnectWallet />
           </div>
